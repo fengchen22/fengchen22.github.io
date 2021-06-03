@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Home"
+    url: /about/
+
+  - title: "Research"
+    url: /research/    
+
+  - title: "Teaching"
+    url: /teaching/    
+ 
+  - title: "Curriculum Vitae"
+    url: /files/feng_cv.pdf
