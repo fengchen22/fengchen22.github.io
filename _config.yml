@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Feng Chen"
 title_separator          : "-"
 name                     : &name "Feng Chen"
 description              : &description "Feng Chen, Economics, Tulane University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Feng Chen"
   avatar           : "b4.jpg"
-  bio              : "PhD Candidate <br> Department of Economics <br> Tulane University"
+  bio              : "PhD Candidate  <br> Tulane University"
   location         : "New Orleans, LA"
   employer         : 
   pubmed           :
