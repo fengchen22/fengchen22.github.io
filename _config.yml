@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Feng Chen"
   avatar           : "b4.jpg"
-  bio              : "Tulane University"
-  location         : "New Orleans, LA"
+  bio              :
+  location         : "Tulane University"
   employer         : 
   pubmed           :
   googlescholar    :
