@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-**Welcome to my webpage!**   
+Welcome to my webpage! 
 
 I am a Ph.D. candidate in Economics with research interests in public economics and labor economics. I have a broad interest in applied microeconomics and am particularly interested in topics related to family, gender, and education.  My current research agenda focuses on the heterogeneous effects of the #Metoo movement in sexism on sexual crime reporting, the system effect of Charter school reform on student outcomes, and the causal effects of Paid Family Leave on infant mortality.
    
