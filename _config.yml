@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Feng Chen"
+title                    : "Feng Chen 1"
 title_separator          : "-"
-name                     : &name "Feng Chen"
-description              : &description "Feng Chen, Economics, Tulane University"
+name                     : &name "Feng Chen 2"
+description              : &description "Feng Chen 3, Economics, Tulane University"
 url                      : https://fengchen22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fengchen22/fengchen22.github.io"
