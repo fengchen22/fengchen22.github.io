@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Feng Chen"
 title_separator          : "-"
-name                     : &name "Feng Chen, PhD in Economics, Tulane University"
+name                     : &name "Feng Chen"
 description              : &description "Feng Chen, PhD Candidate in Economics, Tulane University"
 url                      : https://fengchen22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
