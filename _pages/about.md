@@ -10,7 +10,7 @@ redirect_from:
 
 <br />
 
-<font size=5>I am a Ph.D. candidate in Economics at Tulane University. I have a broad interest in applied microeconomics and am particularly interested in topics related to family, education, and gender.  My current research agenda focuses on the causal effect of paid maternity leave on infant mortality, the system effect of Charter school reform on student outcomes, and the heterogeneous effect of the #Metoo movement in sexism on sexual crime reporting. </font>
+<font size=5>I am a Ph.D. candidate in Economics at Tulane University. I have a broad interest in applied microeconomics and am particularly interested in topics related to family, education, and gender.  My current research agenda focuses on the causal effect of paid family leave on infant mortality, the system effect of Charter school reform on student outcomes, and the heterogeneous effect of the #Metoo movement in sexism on sexual crime reporting. </font>
 
 <br />
 
