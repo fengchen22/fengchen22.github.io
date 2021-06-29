@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Feng Chen personal websit"
+title: "Feng Chen - Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 --- 
-Welcome to my webpage! 
 
 I am a Ph.D. candidate in Economics at Tulane University. I have a broad interest in applied microeconomics and am particularly interested in topics related to family, education, and gender.  My current research agenda focuses on the causal effect of paid maternity leave on infant mortality, the system effect of Charter school reform on student outcomes, and the heterogeneous effect of the #Metoo movement in sexism on sexual crime reporting.
    
