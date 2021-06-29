@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "Feng Chen personal websit"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
