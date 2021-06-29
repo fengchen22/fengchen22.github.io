@@ -14,6 +14,6 @@ redirect_from:
 
 <br />
 
-<font size=5>I am on the 2021-2022 job market, and I will be available for interviews at the 2022 ASSA meetings. Please find more information in my </font> [CV](http://fengchen22.github.io/files/feng_cv.pdf) <font size=5> and contact me at fchen9@tulane.edu.</font>
+<font size=5>I am on the 2021-2022 job market, and I will be available for interviews at the 2022 ASSA meetings. Please find more information in my </font> [<font size=5>CV</font>](http://fengchen22.github.io/files/feng_cv.pdf) <font size=5> and contact me at fchen9@tulane.edu.</font>
 
-<font size=6> test 8 </font>
+<font size=6> test 1 </font>
